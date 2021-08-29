@@ -46,9 +46,9 @@ public class FortressControl extends JavaPlugin {
 
         fortressConfiguration = readConfiguration(config);
 
-        new WorldHandler_v1_16_R2(this);
+        new WorldHandler_v1_17_R1(this);
 
-       new Metrics(this, 8735);
+        new Metrics(this, 8735);
     }
 
     /**

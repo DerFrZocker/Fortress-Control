@@ -3,5 +3,5 @@ version: ${project.version}
 description: ${project.description}
 author: ${project.author}
 main: de.derfrzocker.fc.FortressControl
-api-version: 1.16
+api-version: 1.17
 load: STARTUP
