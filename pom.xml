@@ -30,7 +30,7 @@
 
     <groupId>de.derfrzocker</groupId>
     <artifactId>fortress-control</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 
     <packaging>jar</packaging>
     <description>Control the Nether Fortress</description>
